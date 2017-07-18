@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1466467652 source:d:\c++ programs grade 11\final term project\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+
+1466529140 source:e:\c++ programs grade 11\final term project\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+	<algorithm>
+
